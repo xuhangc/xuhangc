@@ -1,11 +1,11 @@
 ### Hi there, I'm [Xuhang Chen][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## I'm a Developer, and Teacher!
+- 🔭 I’m currently working on a [HZU Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with others
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love Steam
 
 ### Connect with me:
 
@@ -39,7 +39,6 @@
 <!-- YOUTUBE:END -->
 
 ---
-
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuhangc&show_icons=true&hide_border=true" />
 
