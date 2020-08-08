@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuhangc&show_icons=true&hide_border=true" />
+<img align="left" alt="Xuhang Chen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuhangc&show_icons=true&hide_border=true" />
 
 [website]: https://lkljty.gitee.io/
 [bilibili]: https://space.bilibili.com/1381574
