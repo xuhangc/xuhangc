@@ -1,7 +1,7 @@
 ### Hi there, I'm [Xuhang Chen][website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [HZU Course][website]!
+- 🔭 I’m currently working on a [HZU Course][hzugithub]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
 - 🥅 Goals: Contribute more to Open Source projects
@@ -43,6 +43,7 @@
 <img align="left" alt="Xuhang Chen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuhangc&show_icons=true&hide_border=true" />
 
 [website]: https://lkljty.gitee.io/
+[hzugithub]: https://github.com/HZU-CS
 [bilibili]: https://space.bilibili.com/1381574
 [linkedin]: https://www.linkedin.com/in/xuhangc/
 [github]: https://github.com/xuhangc
