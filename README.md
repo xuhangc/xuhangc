@@ -40,7 +40,10 @@
 
 ---
 
-<img align="left" alt="Xuhang Chen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuhangc&show_icons=true&hide_border=true" />
+![Nick's github stats](https://github-readme-stats.vercel.app/api?username=xuhangc&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuhangc)](https://github.com/xuhangc/github-readme-stats)
 
 [website]: https://lkljty.gitee.io/
 [hzugithub]: https://github.com/HZU-CS
