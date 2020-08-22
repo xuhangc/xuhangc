@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuhangc" alt="xuhangc" /> </p>
 
+- 🔭 I’m currently working on [teaching](https://lkljty.gitee.io/)
+
 - 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [https://lkljty.gitee.io/](https://lkljty.gitee.io/)
