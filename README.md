@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 All of my projects are available at [https://lkljty.gitee.io/](https://lkljty.gitee.io/)
+- 👨‍💻 All of my projects are available at [https://cxh.netlify.app/](https://cxh.netlify.app/)
 
 - 💬 Ask me about **everything**
 
