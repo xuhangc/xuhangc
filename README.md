@@ -15,4 +15,7 @@
 
 - ⚡ Fun fact **I love Steam**
 
+- [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,git,github,c,cpp,linux,ubuntu,notion,powershell,latex,arduino,linkedin,anaconda,bash,flask,django,go,html,idea,java,js,md,matlab,mongodb,mysql,netlify,nodejs,npm,pycharm,raspberrypi,sublime,sklearn,vscode,windows,vim)](https://skillicons.dev)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuhangc&show_icons=true" alt="xuhangc" /></p>
