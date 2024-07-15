@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuhangc" alt="xuhangc" /> </p>
 
-- 🔭 I’m currently working on 📸
+- 🔭 I’m currently a Ph.D student in UM(IPPR Lab)
   
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning Low Level & Physics-based Vision, Computational Photography and Multi-modal Vision.
 
 - 👨‍💻 All of my projects are available at [https://cxh.netlify.app/](https://cxh.netlify.app/)
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **xuhangc@hzu.edu.cn**
+- 📫 How to reach me **xuhangc@hzu.edu.cn**, 微信: lkljty
 
 - ⚡ Fun fact **I love Steam**
 
