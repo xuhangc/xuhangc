@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuhangc" alt="xuhangc" /> </p>
 
-- 🔭 I’m currently a Ph.D student in UM(IPPR Lab)
+- 🔭 I’m currently a Ph.D student in UM (IPPR Lab)
   
 - 🌱 I’m currently learning Low Level & Physics-based Vision, Computational Photography and Multi-modal Vision.
 
